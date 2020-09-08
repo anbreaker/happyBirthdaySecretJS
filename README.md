@@ -1,1 +1,1 @@
-# happyBirthdaySecretJS
+# Happy Birthday Secret JavaScritp
